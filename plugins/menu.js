@@ -44,16 +44,16 @@ const defaultMenu = {
 │
 │ Uptime: *%uptime (%muptime)*
 │ Database: %rtotalreg of %totalreg
-│ Github:
-│ %github
+│ Info : 0857-1559-0172
+│ https://chat.whatsapp.com/JjI08e4HVMUCDjz4DzFPkD
 ╰────
 %readmore`.trimStart(),
   header: '╭─「 %category 」',
   body: '│ • %cmd %islimit %isPremium',
   footer: '╰────\n',
   after: `
-*%npmname@^%version*
-${'```%npmdesc```'}
+*_©Danangws™_*
+${'```KAWAII_BOTZ™√```'}
 `,
 }
 let handler = async (m, { conn, usedPrefix: _p }) => {
