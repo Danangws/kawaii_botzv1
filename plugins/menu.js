@@ -30,7 +30,7 @@ let tags = {
 }
 const defaultMenu = {
   before: `
-╭─「 %me 」
+╭─「 KAWAII_BOTZ™√ 」
 │ Hai, %name!
 │
 │ Tersisa *%limit Limit*
@@ -44,8 +44,8 @@ const defaultMenu = {
 │
 │ Uptime: *%uptime (%muptime)*
 │ Database: %rtotalreg of %totalreg
-│ Info : 0857-1559-0172
-│ https://chat.whatsapp.com/JjI08e4HVMUCDjz4DzFPkD
+│ More Info : wa.me/6285715590172
+│ https://chat.whatsapp.com/I93WyQqfnA9KgZ6L6XdFPq
 ╰────
 %readmore`.trimStart(),
   header: '╭─「 %category 」',
