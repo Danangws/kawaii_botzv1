@@ -6,7 +6,7 @@ let handler = async m => m.reply(`
 
 ╭─「 Donasi • Non Pulsa 」
 │ • Chat Owner
-│ • https://chat.whatsapp.com/JjI08e4HVMUCDjz4DzFPkD
+│ • https://chat.whatsapp.com/I93WyQqfnA9KgZ6L6XdFPq
 ╰────
 `.trim()) // Tambah sendiri kalo mau
 handler.help = ['donasi']
